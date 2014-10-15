@@ -1,10 +1,10 @@
 {
   "author": "Tomás Pollak <tomas@forkhq.com> (http://forkhq.com)",
-  "name": "dialog",
+  "name": "fdialog",
   "description": "Show alert dialogs using Node.",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "repository": {
-    "url": "https://github.com/tomas/dialog"
+    "url": "https://github.com/fmarcos83/dialog"
   },
   "bin": {
     "show_dialog": "./bin/dialog.js"
